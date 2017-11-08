@@ -183,4 +183,4 @@ Operationalisierung: Anmeldetests zur Simulation der Fehlermeldung.
 Hier wird eine Aufgliederung des zu entwickelnden Systems beschrieben, wenn die Entwicklung inkrementell (Kernsystem, Ausbaustufe 1, Aufbaustufe 2 usw.) erfolgen soll.
 
 # Glossar
-Das Glossar besteht aus Glossarbegriffen mit anschließender Erklärung des jeweiligen Begriffs. Wird auf andere Glossarbegriffe verwiesen, dann wird dies durch einen Pfeil vor dem Begriff, auf den verwiesen wird, angegeben. Übersetzungen in andere Sprachen sowie Synonyme werden in Klammern hinter dem Glossarbegriff angegeben.
+Das Glossar besteht aus Glossarbegriffen mit anschließender Erklärung des jeweiligen Begriffs. Wird auf andere Glossarbegriffe verwiesen, dann wird dies durch einen Pfeil vor dem Begriff, auf den verwiesen wird, angegeben. Übersetzungen in andere Sprachen sowie Synonyme werden in Klammern hinter dem Glossarbegriff  angegeben.
