@@ -34,42 +34,25 @@ Das System wird hauptsächlich in Sportstätten genutzt.
 
 Die tägliche Betriebszeit des Systems beinhaltet die Dauer einer Trainingseinheit mit einer damit verbundenen Nachbearbeitung von Leistungsdaten.
 
-#### /R50/ Ständige Beobachtung des Systems durch Bediener 
-
-// Bei der technischen Produktumgebung sind folgende Festlegungen zu treffen:
-
-# Was ist damit gemeint?
-
-#### /R60/ Eingesetzte Software auf der Zielmaschine 
+#### /R50/ Eingesetzte Software auf der Zielmaschine 
 
 Die Application "Sweet is the PUMP!!!" soll auf der Zielmaschine eingesetzt werden.
 
-#### /R70/ Eingesetzte Hardware(komponenten) einschl. Konfiguration auf der Zielmaschine  
+#### /R60/ Eingesetzte Hardware(komponenten) einschl. Konfiguration auf der Zielmaschine  
 
 keine
 
-#### /R80/ Organisatorische Randbedingungen und Voraussetzungen  
-
-Bei den Anforderungen an die Entwicklungsumgebung sind folgende Festlegungen zu treffen:
-
-# Was ist damit gemeint?
-
-#### /R90/ Software auf dem Entwicklungssystem  
+#### /R70/ Software auf dem Entwicklungssystem  
 
 Aus der Entwicklungsumgebung .Net werden die Laufzeitumgebungen .NET Core und Xamarin verwendet. Diese benötigen die Komponenten ASP.Net Core und Android.
 
-#### /R100/ Hardware des Entwicklungssystems
+#### /R80/ Hardware des Entwicklungssystems
 
-# Was ist damit gemeint?
+# Standard Hardware
 
-#### /R110/ Orgware des Entwicklungssystems
+#### /R90/ Orgware des Entwicklungssystems
 
-# Was ist damit gemeint?
-
-#### /R120/ Entwicklungsschnittstellen
-
-# Was ist damit gemeint?
- Softwareschnittstelle?
+# Skype, GitHub, WhiteStareUML
 
 # 3 Kontext und Überblick
 Festlegung der relevanten Systemumgebung (Kontext) und Überblick über das System:
