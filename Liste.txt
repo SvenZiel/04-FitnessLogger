@@ -1,0 +1,14 @@
+Account erstellen / registrieren
+Anmelden / Abmelden
+Trainingsplan erstellen/bearbeiten
+Leistungsdaten eintragen
+
+
+(Übung hinzufügen/bearbeiten)
+
+(automatische Trainingsplanerstellung per Fragenkatalog)
+
+(Leistungsdaten visualisieren / Diagramm erstellen)
+
+(Training starten / Plan nach Reihenfolge)
+
