@@ -1,9 +1,0 @@
-- Nutzer
-- Übung (Prio Muskelgruppen)
-- Trainingsplan
-- Leistung (Kombination aus Nutzer, Übung, Trainingsplan; 
-beinhaltet Gewicht, Sätze, Wiederholungen, Datum)
-
-Aufzählungen:
-- Muskelgruppen
-- Splitart
